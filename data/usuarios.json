@@ -1,0 +1,165 @@
+[{
+  "_id": {
+    "$oid": "684dcf3b375a3138402af9c3"
+  },
+  "nombre": "Juan Pérez",
+  "correo": "juan@example.com",
+  "contraseña": "$2b$10$4.NENV2dfT/nAdmNLkDsCulWMX5XbKvUSwbSE5gDf4E5VsOzj9Iqm",
+  "createdAt": {
+    "$date": "2025-06-14T19:36:27.338Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T19:36:27.338Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684dd41e375a3138402af9ca"
+  },
+  "nombre": "Lucía Ramírez",
+  "correo": "lucia.ramirez@example.com",
+  "contraseña": "$2b$10$NHfVGTwuAwoVjnRnrJ1HbO4wpJVVUWqlXYAlBslMCYB2SfPo3xAou",
+  "createdAt": {
+    "$date": "2025-06-14T19:57:18.701Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T19:57:18.701Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684dd452375a3138402af9cd"
+  },
+  "nombre": "Carlos Gómez",
+  "correo": "carlos.gomez@example.com",
+  "contraseña": "$2b$10$h.fJA4AHIZBLyrFp8PJfGudXV54iHwxlEsyRQiPCbmsSKbktVYrau",
+  "createdAt": {
+    "$date": "2025-06-14T19:58:10.195Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T19:58:10.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684dd484375a3138402af9d0"
+  },
+  "nombre": "Andrea Martínez",
+  "correo": "andrea.martinez@example.com",
+  "contraseña": "$2b$10$wPiRLmOTD0mH9wtaZlp8WeeXf.dE6rVvMWC19xPQgAjVr3NdqpGpO",
+  "createdAt": {
+    "$date": "2025-06-14T19:59:00.198Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T19:59:00.198Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684dd4d1375a3138402af9d3"
+  },
+  "nombre": "Miguel Torres",
+  "correo": "miguel.torres@example.com",
+  "contraseña": "$2b$10$z/Rz4jphlfT2NhkcAn74E.E9cJ6uiLVDYS/rF.56T/Y9VBqWk6oki",
+  "createdAt": {
+    "$date": "2025-06-14T20:00:17.643Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T20:00:17.643Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684dd4f8375a3138402af9d6"
+  },
+  "nombre": "Fernanda López",
+  "correo": "fernanda.lopez@example.com",
+  "contraseña": "$2b$10$u1JAF2kUiAavmHWs2wUFQ./iOM2b7bl0NYYZeBPaMVY5BDACuZIhq",
+  "createdAt": {
+    "$date": "2025-06-14T20:00:56.886Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T20:00:56.886Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684dd51d375a3138402af9d9"
+  },
+  "nombre": "Javier Díaz",
+  "correo": "javier.diaz@example.com",
+  "contraseña": "$2b$10$nZG16d5tslSbZdaERarLo.S3Ev66MmK.RdDvF.jh5imalvVCMtvhO",
+  "createdAt": {
+    "$date": "2025-06-14T20:01:33.687Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T20:01:33.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684dd541375a3138402af9dc"
+  },
+  "nombre": "Mariana Castillo",
+  "correo": "mariana.castillo@example.com",
+  "contraseña": "$2b$10$pGBYnXGlnt0NsE8ABF5sZ.KDxFttY8feZxj6Wzk9KzGMN0DIpencO",
+  "createdAt": {
+    "$date": "2025-06-14T20:02:09.730Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T20:02:09.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684dd56f375a3138402af9df"
+  },
+  "nombre": "Pedro Morales",
+  "correo": "pedro.morales@example.com",
+  "contraseña": "$2b$10$Tk523IjRKZ6YweP62mEl1ubtJiMfLF0scoKlHmjDIBV9St4x276eO",
+  "createdAt": {
+    "$date": "2025-06-14T20:02:55.256Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T20:02:55.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684dd596375a3138402af9e2"
+  },
+  "nombre": "Valentina Reyes",
+  "correo": "valentina.reyes@example.com",
+  "contraseña": "$2b$10$Uddl.VgYndSFfNZ0MUksp.pYHR.iTriZLhs.KeMeWVbfFP.6QzTua",
+  "createdAt": {
+    "$date": "2025-06-14T20:03:34.407Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T20:03:34.407Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684dfbbb1569e2126c258580"
+  },
+  "nombre": "luis perez",
+  "correo": "l.perez@gmail.com",
+  "contraseña": "$2b$10$m39n65k7.tbL48aPC.x46elT1npyTboprf4wZOaHk8nX57ErLNNOK",
+  "createdAt": {
+    "$date": "2025-06-14T22:46:19.639Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T22:46:19.639Z"
+  },
+  "__v": 0
+}]

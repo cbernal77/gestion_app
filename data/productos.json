@@ -1,0 +1,320 @@
+[{
+  "_id": {
+    "$oid": "684cca42be3c7bdf48f05da3"
+  },
+  "nombre": "BioDetect Influenza A/B RT-PCR",
+  "descripcion": "Kit de diagnóstico molecular para la detección rápida de virus Influenza A y B.",
+  "precio": 450,
+  "categoria": "Diagnóstico Molecular",
+  "createdAt": {
+    "$date": "2025-06-14T01:02:58.435Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T01:02:58.435Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684ccbcabe3c7bdf48f05da5"
+  },
+  "nombre": "AgroShield RNAi",
+  "descripcion": "Solución de RNA de interferencia para control de plagas agrícolas sin pesticidas.",
+  "precio": 220,
+  "categoria": "Biotecnología Agrícola",
+  "createdAt": {
+    "$date": "2025-06-14T01:09:30.357Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T01:09:30.357Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684ccc1abe3c7bdf48f05da7"
+  },
+  "nombre": "TheraGene-101",
+  "descripcion": "Terapia génica experimental para distrofia muscular basada en vectores AAV.",
+  "precio": 1850,
+  "categoria": "Terapia Génica",
+  "createdAt": {
+    "$date": "2025-06-14T01:10:50.260Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T01:10:50.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684ccce2be3c7bdf48f05da9"
+  },
+  "nombre": "SynBioStarter Pack",
+  "descripcion": "Kit inicial de biología sintética con cepas modificadas y material didáctico.",
+  "precio": 299,
+  "categoria": "Biología Sintética",
+  "createdAt": {
+    "$date": "2025-06-14T01:14:10.514Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T01:14:10.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684ccd18be3c7bdf48f05dab"
+  },
+  "nombre": "ViralVector Pro",
+  "descripcion": "Sistema de producción de vectores lentivirales para ensayos preclínicos.",
+  "precio": 990,
+  "categoria": "Terapia Génica",
+  "createdAt": {
+    "$date": "2025-06-14T01:15:04.016Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T01:15:04.016Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684ccd59be3c7bdf48f05dad"
+  },
+  "nombre": "CropGen Enhancer",
+  "descripcion": "Bioestimulante genético para aumentar la fotosíntesis en cultivos de soya.",
+  "precio": 135,
+  "categoria": "Biotecnología Agrícola",
+  "createdAt": {
+    "$date": "2025-06-14T01:16:09.871Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T01:16:09.871Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684ccd99be3c7bdf48f05daf"
+  },
+  "nombre": "NanoLab Dx Pro",
+  "descripcion": "Dispositivo portátil para diagnóstico molecular en campo con microfluidos.",
+  "precio": 799.99,
+  "categoria": "Diagnóstico Molecular",
+  "createdAt": {
+    "$date": "2025-06-14T01:17:13.603Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T01:17:13.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684ccde2be3c7bdf48f05db1"
+  },
+  "nombre": "BioFab Protein Express",
+  "descripcion": "Plataforma automatizada de síntesis de proteínas recombinantes.",
+  "precio": 1150,
+  "categoria": "Biología Sintética",
+  "createdAt": {
+    "$date": "2025-06-14T01:18:26.071Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T01:18:26.071Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684cce0fbe3c7bdf48f05db3"
+  },
+  "nombre": "GeneSilencer-X",
+  "descripcion": "Tecnología de silenciamiento génico para uso en terapias dirigidas.",
+  "precio": 1450,
+  "categoria": "Terapia Génica",
+  "createdAt": {
+    "$date": "2025-06-14T01:19:11.389Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T01:19:11.389Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684cce5cbe3c7bdf48f05db5"
+  },
+  "nombre": "PCRMax OneStep",
+  "descripcion": "Kit de PCR en un solo paso para identificación bacteriana rápida.",
+  "precio": 310,
+  "categoria": "Diagnóstico Molecular",
+  "createdAt": {
+    "$date": "2025-06-14T01:20:28.011Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T01:20:28.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684ccea8be3c7bdf48f05db7"
+  },
+  "nombre": "AgroBioFix",
+  "descripcion": "Formulación biológica para fijación de nitrógeno en cultivos de arroz.",
+  "precio": 180,
+  "categoria": "Biotecnología Agrícola",
+  "createdAt": {
+    "$date": "2025-06-14T01:21:44.587Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T01:21:44.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684ccee3be3c7bdf48f05db9"
+  },
+  "nombre": "CRISPR-EZ Kit",
+  "descripcion": "Kit educativo de edición genética con guías, plásmidos y células HEK293.",
+  "precio": 420,
+  "categoria": "Biología Sintética",
+  "createdAt": {
+    "$date": "2025-06-14T01:22:43.962Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T01:22:43.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684ccf1dbe3c7bdf48f05dbb"
+  },
+  "nombre": "ImmuneTrack Lite",
+  "descripcion": "Sistema de seguimiento de marcadores inmunológicos en tiempo real.",
+  "precio": 670,
+  "categoria": "Investigación Biomédica",
+  "createdAt": {
+    "$date": "2025-06-14T01:23:41.792Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T01:23:41.792Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684ccf4bbe3c7bdf48f05dbd"
+  },
+  "nombre": "PlantBoost DNA Spray",
+  "descripcion": "Spray de nanopartículas de ADN para activar genes beneficiosos en cultivos.",
+  "precio": 145,
+  "categoria": "Biotecnología Agrícola",
+  "createdAt": {
+    "$date": "2025-06-14T01:24:27.884Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T01:24:27.884Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684ccf85be3c7bdf48f05dbf"
+  },
+  "nombre": "MutaCheck Rapid",
+  "descripcion": "Kit de screening de mutaciones genéticas para investigación oncológica.",
+  "precio": 740,
+  "categoria": "Diagnóstico Molecular",
+  "createdAt": {
+    "$date": "2025-06-14T01:25:25.703Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T01:25:25.703Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684ccfc0be3c7bdf48f05dc1"
+  },
+  "nombre": "NeuroGene Probe Kit",
+  "descripcion": "Sondas fluorescentes para detección de genes neuronales en tejidos.",
+  "precio": 590,
+  "categoria": "Investigación Biomédica",
+  "createdAt": {
+    "$date": "2025-06-14T01:26:24.759Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T01:26:24.759Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684ccff4be3c7bdf48f05dc3"
+  },
+  "nombre": "BioNova ViralPack",
+  "descripcion": "Sistema completo para empaquetamiento y purificación de vectores virales.",
+  "precio": 1290,
+  "categoria": "Terapia Génica",
+  "createdAt": {
+    "$date": "2025-06-14T01:27:16.774Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T01:27:16.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684cd033be3c7bdf48f05dc5"
+  },
+  "nombre": "EcoFerment Synth",
+  "descripcion": "Plataforma de fermentación sintética para producción sostenible de compuestos.",
+  "precio": 980,
+  "categoria": "Biología Sintética",
+  "createdAt": {
+    "$date": "2025-06-14T01:28:19.883Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T01:28:19.883Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684cd075be3c7bdf48f05dc7"
+  },
+  "nombre": "SeedGuard CRISPR Kit",
+  "descripcion": "Herramientas CRISPR para edición de semillas y optimización de germinación.",
+  "precio": 375,
+  "categoria": "Biotecnología Agrícola",
+  "createdAt": {
+    "$date": "2025-06-14T01:29:25.575Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T01:29:25.575Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "684cd0babe3c7bdf48f05dc9"
+  },
+  "nombre": "PathoScan qPCR Mastermix",
+  "descripcion": "Mastermix optimizado para detección múltiple de patógenos por qPCR.",
+  "precio": 250,
+  "categoria": "Diagnóstico Molecular",
+  "createdAt": {
+    "$date": "2025-06-14T01:30:34.895Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T01:30:34.895Z"
+  },
+  "__v": 0
+}]
