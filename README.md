@@ -55,14 +55,21 @@ npm install
 
 3. Crea tu archivo .env
 
-Copia el archivo .env.example y crea tu propio .env:
+Copia el archivo .env.example a .env:
 
-cp .env.example .env
+copy .env.example .env  # Windows
+# o
+cp .env.example .env    # Linux / macOS
 
-Edita el archivo .env con tus valores reales, por ejemplo:
+Abre el archivo .env para revisarlo y modificarlo si es necesario. Puedes usar Visual Studio Code con este comando:
+
+code .env
+
+Asegúrate de que las variables tengan los valores correctos, por ejemplo:
 
 PORT=3000
 MONGODB_URI=mongodb://localhost:27017/gestion_app
+
 
 🧪 Carga de datos de prueba
 
