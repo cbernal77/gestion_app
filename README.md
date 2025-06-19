@@ -44,6 +44,7 @@ gestion_app/
 
 ```bash
 git clone https://github.com/cbernal77/gestion_app.git
+
 cd gestion_app
 
 Asegúrate de reemplazar la URL si tu repositorio se llama distinto.
@@ -99,10 +100,10 @@ Requiere tener MongoDB instalado localmente y que mongoimport esté en tu PATH.
 🔐 Credenciales de prueba
 
 Estas credenciales están incluidas en los datos de prueba para iniciar sesión:
-Usuario	                       Contraseña
-lucia.ramirez@example.com	    clave123
-carlos.gomez@example.com	   secreto456
-andrea.martinez@example.com	   password789
+Usuario	                              Contraseña
+lucia.ramirez@example.com	        clave123
+carlos.gomez@example.com	        secreto456
+andrea.martinez@example.com	        password789
 
 Las contraseñas están hasheadas en la base de datos. Estos valores son las versiones en texto plano para probar login.
 
@@ -124,6 +125,7 @@ Las contraseñas están hasheadas en la base de datos. Estos valores son las ver
 
     Las rutas pueden variar según tu implementación exacta en routes/.
 
+    
     🛠️ Tecnologías usadas
 
     Node.js
@@ -138,6 +140,7 @@ Las contraseñas están hasheadas en la base de datos. Estos valores son las ver
 
     dotenv
 
+    
     📌 Notas
 
     El archivo .env está en .gitignore y no se sube al repositorio.
