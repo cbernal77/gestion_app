@@ -5,7 +5,7 @@ Este es el backend del proyecto **Gestión App**, una API REST construida con **
 ---
 
 ## 📁 Estructura del proyecto
-
+``` plaintext
 gestion_app/
 ├── backend/
 │ ├── controllers/
