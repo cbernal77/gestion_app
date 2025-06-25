@@ -164,7 +164,9 @@ Las rutas pueden variar según tu implementación exacta en routes/.
 ### 📌 Notas
 
    El archivo .env está en .gitignore y no se sube al repositorio.
+   
    Usa .env.example como referencia para configurar tu entorno.
+   
    Los archivos .json en data/ contienen datos de prueba que puedes modificar.
 
    Este repositorio está listo para clonar, instalar dependencias, importar datos de prueba y comenzar a probar la API localmente. Puedes utilizar MongoDB Compass o la terminal para importar los datos desde la carpeta data/.
