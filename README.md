@@ -78,11 +78,12 @@ MONGODB_URI=mongodb://localhost:27017/gestion_app
 
 ```
 
-
-🧪 Carga de datos de prueba
+```
+### 🧪 Carga de datos de prueba
 
 El proyecto incluye datos para poblar la base de datos en la carpeta data/:
 
+ ```
     usuarios.json
 
     productos.json
