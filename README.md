@@ -71,16 +71,17 @@ Copia el archivo .env.example a .env:
 ```
 Luego abre el archivo .env para revisarlo y modificarlo si es necesario. Puedes usar VS Code:
 
+```
 code .env
+
+```
 
 Asegúrate que las variables tengan los valores correctos, por ejemplo:
 ```
 PORT=3000
 MONGODB_URI=mongodb://localhost:27017/gestion_app
-
-
-
 ```
+
 ### 🧪 Carga de datos de prueba
 
 El proyecto incluye datos para poblar la base de datos en la carpeta data/:
