@@ -47,10 +47,12 @@ cd gestion_app
 
 Asegúrate de reemplazar la URL si tu repositorio se llama distinto.
 
+```
 2. Instala las dependencias
 
 npm install
 
+```
 
 3. Crea tu archivo .env
 
