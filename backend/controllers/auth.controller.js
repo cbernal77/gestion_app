@@ -66,7 +66,9 @@ exports.login = async (req, res) => {
     
     // Si la contraseña no coincide, muestra en consola y responde con error 401
     if (!isMatch) {
-      console.log(`🔐 Login fallido: Contraseña incorrecta para : "${correo}"`);
+      console.log("🔐 Login fallido: Contraseña incorrecta");
+      
+      //console.log(`🔐 Login fallido: Contraseña incorrecta para : "${correo}"`);
       return res.status(401).json({message: 'Credenciales Incorrectas'});
     }
 
