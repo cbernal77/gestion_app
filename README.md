@@ -48,13 +48,13 @@ cd gestion_app
 Asegúrate de reemplazar la URL si tu repositorio se llama distinto.
 
 ```
-2. Instala las dependencias
+### 2. Instala las dependencias
 
 npm install
 
 ```
-
-3. Crea tu archivo .env
+```
+### 3. Crea tu archivo .env
 
 Copia el archivo .env.example a .env:
 
@@ -75,6 +75,9 @@ Asegúrate que las variables tengan los valores correctos, por ejemplo:
 
 PORT=3000
 MONGODB_URI=mongodb://localhost:27017/gestion_app
+
+```
+
 
 🧪 Carga de datos de prueba
 
