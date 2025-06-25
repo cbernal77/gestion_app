@@ -24,7 +24,14 @@ const authRoutes = require('./routes/auth.routes');
 const productoRoutes = require('./routes/producto.routes');
 
 // Carga las variables definidas en el archivo .env a process.env
-dotenv.config();
+//dotenv.config();
+
+const path = require('path');
+require('dotenv').config({ path: path.resolve(__dirname, '../.env') });
+
+console.log('MONGODB_URI:', process.env.MONGODB_URI);
+
+
 
 // Crea la aplicación Express
 const app = express();
