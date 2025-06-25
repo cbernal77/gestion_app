@@ -149,17 +149,17 @@ Las rutas pueden variar según tu implementación exacta en routes/.
 
 ### 🛠️ Tecnologías usadas
 
-    - Node.js
+- Node.js
 
-    - Express.js
+- Express.js
 
-    - MongoDB
+- MongoDB
 
-    - Mongoose
+- Mongoose
 
-    - bcrypt
+- bcrypt
 
-    - dotenv
+- dotenv
 
 ### 📌 Notas
 ```
