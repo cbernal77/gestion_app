@@ -57,7 +57,7 @@ exports.login = async (req, res) => {
 
     // Si no encuentra usuario, muestra en consola y responde con error 401 (no autorizado)
     if (!user) {
-       console.log(`🔐 Intento de login fallido: Correo no encontrado -> "${correo}"`);
+       console.log("🔐 Intento de login fallido: Correo no encontrado");
       return res.status(401).json({ message: 'Credenciales incorrectas' });
     }
 
