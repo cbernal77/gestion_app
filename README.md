@@ -47,15 +47,13 @@ cd gestion_app
 ```
 Asegúrate de reemplazar la URL si tu repositorio se llama distinto.
 
-```
-```
 ### 2. Instala las dependencias
 
 ```
 npm install
 
-
 ```
+
 ### 3. Crea tu archivo .env
 
 Copia el archivo .env.example a .env:
@@ -73,7 +71,6 @@ Luego abre el archivo .env para revisarlo y modificarlo si es necesario. Puedes 
 
 ```
 code .env
-
 ```
 
 Asegúrate que las variables tengan los valores correctos, por ejemplo:
@@ -92,32 +89,31 @@ El proyecto incluye datos para poblar la base de datos en la carpeta data/:
     productos.json
 ```
 🔹 Opción 1: Usando MongoDB Compass (recomendado)
-```
+
     Abre MongoDB Compass.
 
-    Conéctate a mongodb://localhost:27017 o a tu URI personalizada.
+    Conéctate a ```mongodb://localhost:27017``` o a tu URI personalizada.
 
-    Selecciona la base de datos gestion_app.
+    Selecciona la base de datos ```gestion_app```.
 
-    Abre o crea las colecciones usuarios y productos.
+    Abre o crea las colecciones ```usuarios``` y ```productos```.
 
     Haz clic en ⋯ > Import Data.
 
     Selecciona el archivo JSON correspondiente.
 
-    Elige el tipo: "JSON – Array of documents".
+    Elige el tipo: ``` "JSON – Array of documents" ```.
 
     Haz clic en Import.
-```
+
 🔹 Opción 2: Usando la terminal con mongoimport
 ```
     mongoimport --db gestion_app --collection usuarios --file data/usuarios.json --jsonArray
     mongoimport --db gestion_app --collection productos --file data/productos.json --jsonArray
 ```
-Requiere tener MongoDB instalado localmente y que mongoimport esté en tu PATH.
+Requiere tener MongoDB instalado localmente y que ```mongoimport``` esté en tu PATH.
 
-```
-```
+
 ### 🔐 Credenciales de prueba
 
 Estas credenciales están incluidas en los datos de prueba para iniciar sesión:
