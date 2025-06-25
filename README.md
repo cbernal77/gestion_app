@@ -90,21 +90,21 @@ El proyecto incluye datos para poblar la base de datos en la carpeta data/:
 ```
 🔹 Opción 1: Usando MongoDB Compass (recomendado)
 
-    Abre MongoDB Compass.
+Abre MongoDB Compass.
 
-    Conéctate a mongodb://localhost:27017 o a tu URI personalizada.
+Conéctate a ```mongodb://localhost:27017``` o a tu URI personalizada.
 
-    Selecciona la base de datos gestion_app.
+Selecciona la base de datos ```gestion_app```.
 
-    Abre o crea las colecciones usuarios y productos.
+Abre o crea las colecciones usuarios y productos.
 
-    Haz clic en ⋯ > Import Data.
+Haz clic en ⋯ > Import Data.
 
-    Selecciona el archivo JSON correspondiente.
+Selecciona el archivo JSON correspondiente.
 
-    Elige el tipo: "JSON – Array of documents".
+Elige el tipo: ```"JSON – Array of documents"```.
 
-    Haz clic en Import.
+Haz clic en Import.
 
 🔹 Opción 2: Usando la terminal con mongoimport
 ```
