@@ -4,6 +4,7 @@ Este es el backend del proyecto Gestión App, una API REST construida con Node.j
 
 ## 📁 Estructura del proyecto
 
+```
 gestion_app/
 ├── backend/
 │ ├── controllers/
@@ -33,7 +34,7 @@ gestion_app/
 ├── package.json
 └── README.md
 
-
+```
 ---
 
 ## 🚀 Instalación y ejecución
