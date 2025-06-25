@@ -92,17 +92,17 @@ El proyecto incluye datos para poblar la base de datos en la carpeta data/:
 
     Abre MongoDB Compass.
 
-    Conéctate a ```mongodb://localhost:27017``` o a tu URI personalizada.
+    Conéctate a mongodb://localhost:27017 o a tu URI personalizada.
 
-    Selecciona la base de datos ```gestion_app```.
+    Selecciona la base de datos gestion_app.
 
-    Abre o crea las colecciones ```usuarios``` y ```productos```.
+    Abre o crea las colecciones usuarios y productos.
 
     Haz clic en ⋯ > Import Data.
 
     Selecciona el archivo JSON correspondiente.
 
-    Elige el tipo: ``` "JSON – Array of documents" ```.
+    Elige el tipo: "JSON – Array of documents".
 
     Haz clic en Import.
 
@@ -118,7 +118,7 @@ Requiere tener MongoDB instalado localmente y que ```mongoimport``` esté en tu 
 
 Estas credenciales están incluidas en los datos de prueba para iniciar sesión:
 
-```
+``` bash
 | Usuario                                                           | Contraseña  |
 | ----------------------------------------------------------------- | ----------- |
 | [lucia.ramirez@example.com](mailto:lucia.ramirez@example.com)     | clave123    |
@@ -132,7 +132,7 @@ Las contraseñas están hasheadas en la base de datos. Estos valores son las ver
 ```
 ### 📬 Endpoints principales
 
-```
+```bash
 | Método | Ruta                 | Descripción             |
 | ------ | -------------------- | ----------------------- |
 | POST   | `/api/auth/login`    | Iniciar sesión          |
