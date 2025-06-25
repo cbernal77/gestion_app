@@ -118,18 +118,17 @@ Requiere tener MongoDB instalado localmente y que ```mongoimport``` esté en tu 
 
 Estas credenciales están incluidas en los datos de prueba para iniciar sesión:
 
-``` bash
-| Usuario                                                           | Contraseña  |
+|Usuario                                                            | Contraseña  |
 | ----------------------------------------------------------------- | ----------- |
 | [lucia.ramirez@example.com](mailto:lucia.ramirez@example.com)     | clave123    |
 | [carlos.gomez@example.com](mailto:carlos.gomez@example.com)       | secreto456  |
 | [andrea.martinez@example.com](mailto:andrea.martinez@example.com) | password789 |
 
-```
+
 Las contraseñas están hasheadas en la base de datos. Estos valores son las versiones en texto plano para probar login.
 
-```
-```
+
+
 ### 📬 Endpoints principales
 
 ```bash
