@@ -47,7 +47,7 @@ cd gestion_app
 
 Asegúrate de reemplazar la URL si tu repositorio se llama distinto.
 
-```
+```bash
 2. Instala las dependencias
 
 npm install
