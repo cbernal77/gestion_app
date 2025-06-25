@@ -89,7 +89,7 @@ El proyecto incluye datos para poblar la base de datos en la carpeta data/:
     usuarios.json
 
     productos.json
-
+```
 🔹 Opción 1: Usando MongoDB Compass (recomendado)
 ```
     Abre MongoDB Compass.
@@ -115,6 +115,7 @@ El proyecto incluye datos para poblar la base de datos en la carpeta data/:
 ```
 Requiere tener MongoDB instalado localmente y que mongoimport esté en tu PATH.
 
+```
 ```
 ### 🔐 Credenciales de prueba
 
@@ -152,7 +153,7 @@ Las rutas pueden variar según tu implementación exacta en routes/.
 ```
 
 ### 🛠️ Tecnologías usadas
-
+```
     Node.js
 
     Express.js
@@ -164,9 +165,9 @@ Las rutas pueden variar según tu implementación exacta en routes/.
     bcrypt
 
     dotenv
-
+```
 ### 📌 Notas
-
+```
     El archivo .env está en .gitignore y no se sube al repositorio.
 
     Usa .env.example como referencia para configurar tu entorno.
@@ -174,3 +175,4 @@ Las rutas pueden variar según tu implementación exacta en routes/.
     Los archivos .json en data/ contienen datos de prueba que puedes modificar.
 
 Este repositorio está listo para clonar, instalar dependencias, importar datos de prueba y comenzar a probar la API localmente. Puedes utilizar MongoDB Compass o la terminal para importar los datos desde la carpeta data/.
+```
