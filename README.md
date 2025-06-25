@@ -148,19 +148,19 @@ Las rutas pueden variar según tu implementación exacta en routes/.
 
 
 ### 🛠️ Tecnologías usadas
-```
-    Node.js
 
-    Express.js
+    - Node.js
 
-    MongoDB
+    - Express.js
 
-    Mongoose
+    - MongoDB
 
-    bcrypt
+    - Mongoose
 
-    dotenv
-```
+    - bcrypt
+
+    - dotenv
+
 ### 📌 Notas
 ```
     El archivo .env está en .gitignore y no se sube al repositorio.
